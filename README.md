@@ -7,7 +7,7 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
 - 🔭 Working on: [Apel Mod](https://github.com/GitBrincie212/Apel-Mod)
 - 🌱 I’m currently learning Java & GLSL
 - 😄 Pronouns: he/him
-- ✨ Fun fact: I love Titanfall 2, ULTRAKILL, Buckshot Roullete & Minecraft<br>
+- ✨ Fun fact: I love Titanfall 2, ULTRAKILL, Buckshot Roullete & Risk Of Rain 2<br>
 
 ### My Expertises On Programming Languages
 <p float="left">
