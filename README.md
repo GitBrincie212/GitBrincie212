@@ -40,6 +40,6 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/7cdb8013-7947-42b3-a527-b2a9b5c84dfa" width="90" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/7b4fef67-3503-49ee-a064-aadf952497c4" width="90" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/2eace305-246a-4baf-9257-5c5bda61b8f6" width="75" />
-
+  <img src="https://github.com/user-attachments/assets/27d9ada9-4dcb-451f-b67d-967cf91ec80c" width="95" />
 </p>
 
