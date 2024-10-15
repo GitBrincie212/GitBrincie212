@@ -5,7 +5,7 @@
 Im a professenial developer(certified idiot, ofc joking) and i specalise in general software development, game development & frontend development. I mostly work on some random silly projects but sometimes i do tackle large complex ones. I try my best to make each of my products i produce as masterfully crafted as i can<br>
 
 - 🔭 Working on: [Apel Mod](https://github.com/GitBrincie212/Apel-Mod)
-- 🌱 I’m currently learning Java & GLSL
+- 🌱 I’m currently learning Rust
 - 😄 Pronouns: he/him
 - ✨ Fun fact: I love Titanfall 2, ULTRAKILL, Buckshot Roullete & Risk Of Rain 2<br>
 
