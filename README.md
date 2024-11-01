@@ -19,16 +19,16 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/60a8ca63-df12-4aae-857a-bb1d3df2e01a" width="100" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/8448ca07-3c95-4b0d-8f18-11de1c4e6639" width="120" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/a1fa9ba3-cfd5-4581-820a-b59e266e6962" width="85" />
+  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/de2dad12-1da6-4cf5-9402-a2b3c709c215" width="110" />
+  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/500ecec9-d280-4baa-9deb-c5c0685e5ac0" width="100" />
+  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/38040b48-d8f5-49e3-9141-22fad8caba94" width="80" />
 </p>
 
 ### Tools I Have Used
 <p float="left">
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/8c5507be-079d-4333-8d7c-18a7bed07682" width="100" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/e2a1e031-d325-4207-b765-cb667aa83748" width="100" />
-  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/de2dad12-1da6-4cf5-9402-a2b3c709c215" width="110" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/eea5d944-bd19-425b-b774-8b2c8d1948d7" width="80" />
-  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/500ecec9-d280-4baa-9deb-c5c0685e5ac0" width="100" />
-  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/38040b48-d8f5-49e3-9141-22fad8caba94" width="80" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/dcc35162-2fa0-4d1e-8b9d-17ef89508550" width="180" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/7b5c6045-5dd3-484e-ab6e-7b379f7d4f9d" width="90" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/42111841-a061-46ca-a2ab-12a67318dbf1" width="100" />
