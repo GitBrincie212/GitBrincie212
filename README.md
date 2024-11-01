@@ -17,6 +17,8 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/b2c2a859-0395-4b02-8a7c-b762e0bd8aa4" width="100" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/40a533c4-6477-44ae-a6c2-c6318a5abada" width="100" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/60a8ca63-df12-4aae-857a-bb1d3df2e01a" width="100" />
+  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/8448ca07-3c95-4b0d-8f18-11de1c4e6639" width="120" />
+  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/a1fa9ba3-cfd5-4581-820a-b59e266e6962" width="85" />
 </p>
 
 ### Tools I Have Used
@@ -32,8 +34,6 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/42111841-a061-46ca-a2ab-12a67318dbf1" width="100" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/e087adee-786b-460a-acc0-f99b51d6c6e9" width="100" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/fe16deeb-12fa-43f1-8f56-8ba9e0a10a21" width="100" />
-  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/8448ca07-3c95-4b0d-8f18-11de1c4e6639" width="120" />
-  <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/a1fa9ba3-cfd5-4581-820a-b59e266e6962" width="85" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/a0697b46-d24d-4c30-9726-d272c49a9393" width="80" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/37087bae-8a03-493a-b227-2385d99b5ef1" width="85" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/12133a4a-bc9e-4c31-9d39-98af8daaa1ef" width="95" />
