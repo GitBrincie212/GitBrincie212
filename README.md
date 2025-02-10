@@ -9,7 +9,7 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
 - 😄 Pronouns: he/him
 - ✨ Fun fact: I love Titanfall 2, ULTRAKILL, Buckshot Roullete & Risk Of Rain 2<br>
 
-### My Expertises On Programming Languages
+### My Expertises On Programming Languages(And Frameworks / Libraries)
 <p float="left">
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/9582959a-9a4c-4a6b-a6da-c5f9b3a9e2fd" width="100" /> 
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/29ed90c8-8274-48fc-a4d1-aae8b1ca7c6c" width="110" />
@@ -22,7 +22,7 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/38040b48-d8f5-49e3-9141-22fad8caba94" width="80" />
 </p>
 
-### Intermediate Knowledge Of Tools
+### Intermediate Knowledge Of Tools(And Frameworks / Libraries)
 <p float="left">
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/b2c2a859-0395-4b02-8a7c-b762e0bd8aa4" width="100" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/ba3d26ca-e35f-4f00-a85c-125b54f7a800" width="100" />
@@ -32,7 +32,7 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
   <img src="https://github.com/user-attachments/assets/27d9ada9-4dcb-451f-b67d-967cf91ec80c" width="95" />
 </p>
 
-### Tools I Have Used
+### Tools I Have Used(And Frameworks / Libraries)
 <p float="left">
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/8c5507be-079d-4333-8d7c-18a7bed07682" width="100" />
   <img src="https://github.com/GitBrincie212/GitBrincie212/assets/92397968/eea5d944-bd19-425b-b774-8b2c8d1948d7" width="80" />
