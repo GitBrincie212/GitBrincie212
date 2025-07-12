@@ -88,11 +88,9 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
 <span>&nbsp&nbsp</span>
 <img src="https://api.iconify.design/material-icon-theme/vue.svg" alt="vuejs" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
-<img src="https://api.iconify.design/simple-icons/numba.svg?color=%2348a3dc" alt="vuejs" width="45" height="45"/>
+<img src="https://api.iconify.design/simple-icons/numba.svg?color=%2348a3dc" alt="numba" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
-<img src="https://api.iconify.design/simple-icons/numba.svg?color=%2348a3dc" alt="vuejs" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://api.iconify.design/devicon/svelte.svg" alt="vuejs" width="45" height="45"/>
+<img src="https://api.iconify.design/devicon/svelte.svg" alt="svelte" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
 </p>
