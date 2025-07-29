@@ -2,7 +2,7 @@
 <p align="center">I just make computers go *beep* *boop* to produce silly projects</p><br><br>
 
 
-Im a professenial developer(certified idiot, ofc joking) and i specalise in general software development and frontend development. I mostly work on some random silly projects but sometimes i do tackle large complex ones. I try my best to make each of my products i produce as masterfully crafted as i can<br>
+Im a professenial developer (certified idiot) and i specalise in general software development and frontend development. I mostly work on some random silly projects but sometimes i do tackle large complex ones. I try my best to make each of my products i produce as masterfully crafted as i can<br>
 
 - ✨ Personal Fun Fact: Huge fan of Dead Cells, Titanfall 2, Risk Of Rain 2 and ULTRAKILL<br>
 - 🔭 Working on: Mascal (a programming language)
@@ -93,4 +93,22 @@ Im a professenial developer(certified idiot, ofc joking) and i specalise in gene
 <img src="https://api.iconify.design/devicon/svelte.svg" alt="svelte" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://avatars.githubusercontent.com/u/28156855?v=4" alt="flutter" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://styles.redditmedia.com/t5_9b90l5/styles/communityIcon_1hbt383x43qc1.png" alt="rustrover" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://res.cloudinary.com/dg3gyk0gu/image/upload/v1727812592/tags/solid-start.png" alt="solid start" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" alt="obsidianmd" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Affinity_Designer_2-logo.svg/1200px-Affinity_Designer_2-logo.svg.png" alt="affinity designer" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/1200px-Affinity_Photo_V2_icon.svg.png" alt="affinity photo" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Affinity_Publisher_V2_icon.svg/1200px-Affinity_Publisher_V2_icon.svg.png" alt="affinity publisher" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Apache_ECharts_Logo.png" alt="apache echarts" width="180" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://img.daisyui.com/images/daisyui/mark-static.svg" alt="daisyUI" width="45" height="45"/>
 </p>
