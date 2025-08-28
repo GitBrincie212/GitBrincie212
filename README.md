@@ -111,4 +111,9 @@ Im a professenial developer (certified idiot) and i specalise in general softwar
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Apache_ECharts_Logo.png" alt="apache echarts" width="180" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://img.daisyui.com/images/daisyui/mark-static.svg" alt="daisyUI" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://astro.build/assets/press/astro-icon-light-gradient.png" alt="AstroJS" width="30" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://understanding-astro-zh-docs.vercel.app/_astro/hero-star.81c1bfde_Z1azGY.webp" alt="Starlight" width="45" height="45"/>
+
 </p>
