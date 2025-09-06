@@ -18,6 +18,7 @@ Im a professenial developer (certified idiot) and i specalise in general softwar
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitBrincie212&layout=compact&theme=dark&card_width=400" />
 </a>
+
 ## Other Tools I Used And Learnt
 <br />
 <p align="left">
