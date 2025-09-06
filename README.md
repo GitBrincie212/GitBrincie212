@@ -10,14 +10,14 @@ Im a professenial developer (certified idiot) and i specalise in general softwar
 - 😄 Pronouns: he/him
 
 ## My Productivity And Programming Languages I Often Use
+*My main used languages are Rust(quite advanced), Javascript/Typescript (quite advanced), Python (mastered)*
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GitBrincie212&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitBrincie212&layout=compact&theme=dark&card_width=400" />
 </a>
-My main used languages are Rust(obviously), Javascript/Typescript (quite advanced), Python (mastered)
-
 ## Other Tools I Used And Learnt
 <br />
 <p align="left">
