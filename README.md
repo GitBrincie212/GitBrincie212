@@ -5,7 +5,7 @@
 Im a professenial developer (certified idiot) and i specalise in general software development and frontend development. I mostly work on some random silly projects but sometimes i do tackle large complex ones. I try my best to make each of my products i produce as masterfully crafted as i can<br>
 
 - ✨ Personal Fun Fact: Huge fan of Dead Cells, Titanfall 2, Risk Of Rain 2 and ULTRAKILL<br>
-- 🔭 Working on: Mascal (a programming language)
+- 🔭 Working on: ChronoGrapher (a scheduler / orchestration engine built to last)
 - 🌱 I’m currently learning Rust & SolidJS
 - 😄 Pronouns: he/him
 
