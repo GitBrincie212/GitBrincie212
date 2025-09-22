@@ -2,18 +2,15 @@
 <p align="center">I just make computers go *beep* *boop* to produce silly projects</p><br><br>
 
 
-Im a professenial developer (certified idiot) and i specalise in general software development and frontend development. I mostly work on some random silly projects but sometimes i do tackle large complex ones. I try my best to make each of my products i produce as masterfully crafted as i can<br>
+Im a professenial developer (certified idiot) and i mostly have spherical knowledge of most fields but i specalize in **backend development**, **frontend development** (to a certain degree), **systems design** and **software engineering**. I mostly work on some random silly projects but sometimes i do tackle large complex ones. I try my best to make each of my products i produce as masterfully crafted as i can<br>
 
 - ✨ Personal Fun Fact: Huge fan of Dead Cells, Titanfall 2, Risk Of Rain 2 and ULTRAKILL<br>
 - 🔭 Working on: ChronoGrapher (a scheduler / orchestration engine built to last)
 - 🌱 I’m currently learning Rust & SolidJS
 - 😄 Pronouns: he/him
 
-# My Productivity And Programming Languages I Often Use
-<p align="center">
-  <h3 align="center">My main used languages ranked from mastery to quite advanced (From left to right)</h3>
-</p>
-<br />
+<h1 align="center">Knowledge Learnt And Mastery</h1>
+<h3 align="center">My main used languages ranked from mastery to quite advanced (From left to right)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust,godot,ts,js,sqlite,java,sass" />
@@ -90,9 +87,11 @@ Im a professenial developer (certified idiot) and i specalise in general softwar
 <span>&nbsp&nbsp</span>
 <img src="https://understanding-astro-zh-docs.vercel.app/_astro/hero-star.81c1bfde_Z1azGY.webp" alt="Starlight" width="45" height="45"/>
 </p>
-
-# My Streaks And Other Relevant Information
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GitBrincie212&theme=dark)](https://git.io/streak-stats)
+<br />
+<h1 align="center">My Streaks And Other Relevant Information</h1>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=GitBrincie212&theme=dark" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=GitBrincie212&theme=dark&show_icons=true" />
 </a>
