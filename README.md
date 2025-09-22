@@ -89,9 +89,11 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 </p>
 <br />
 <h1 align="center">My Streaks And Other Relevant Information</h1>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=GitBrincie212&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=GitBrincie212&theme=dark&show_icons=true" />
-</a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=GitBrincie212&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=GitBrincie212&theme=dark&show_icons=true" />
+  </a>
+</p>
