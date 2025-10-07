@@ -86,6 +86,10 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 <img src="https://img.daisyui.com/images/daisyui/mark-static.svg" alt="daisyUI" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://understanding-astro-zh-docs.vercel.app/_astro/hero-star.81c1bfde_Z1azGY.webp" alt="Starlight" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" alt="C" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="CLion" width="45" height="45"/>
 </p>
 <br />
 <h1 align="center">My Streaks And Other Relevant Information</h1>
