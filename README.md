@@ -75,7 +75,7 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 <span>&nbsp&nbsp</span>
 <img src="https://res.cloudinary.com/dg3gyk0gu/image/upload/v1727812592/tags/solid-start.png" alt="solid start" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Affinity_Designer_2-logo.svg/1200px-Affinity_Designer_2-logo.svg.png" alt="affinity designer" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Affinity_Designer_V2_icon.svg/1200px-Affinity_Designer_V2_icon.svg.png" alt="affinity designer" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/1200px-Affinity_Photo_V2_icon.svg.png" alt="affinity photo" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
