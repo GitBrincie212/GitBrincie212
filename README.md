@@ -101,6 +101,6 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=GitBrincie212&theme=dark&show_icons=true" />
   </a>
   <a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
-    <img height=200 src="github-contributor-stats.vercel.app/api?username=GitBrincie212&theme=dark" />
+    <img height=200 src="https://github-contributor-stats.vercel.app/api?username=GitBrincie212&theme=dark" />
   </a>
 </p>
