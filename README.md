@@ -25,7 +25,7 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 <h3 align="center">For frameworks, tools and libraries i primarly use (no ranked order)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,tauri,electron,pnpm,vite,obsidian,nodejs,idea,gradle,git,figma,css,html,bootstrap,astro,webstorm,solidjs,pycharm,npm,maven,regex,githubactions" />
+    <img src="https://skillicons.dev/icons?i=tailwind,tauri,react,nextjs,electron,pnpm,vite,obsidian,nodejs,idea,gradle,git,figma,css,html,bootstrap,astro,webstorm,solidjs,pycharm,npm,maven,regex,githubactions" />
   </a>  
 </p>
 <br />
