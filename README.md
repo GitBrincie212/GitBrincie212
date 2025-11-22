@@ -25,7 +25,7 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 <h3 align="center">For frameworks, tools and libraries i primarly use (no ranked order)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,tauri,react,nextjs,electron,pnpm,vite,obsidian,nodejs,idea,gradle,git,figma,css,html,bootstrap,astro,webstorm,solidjs,pycharm,npm,maven,regex,githubactions" />
+    <img src="https://skillicons.dev/icons?i=tailwind,tauri,react,nextjs,electron,pnpm,vite,obsidian,nodejs,idea,gradle,git,css,html,bootstrap,astro,webstorm,solidjs,pycharm,npm,maven,regex,githubactions" />
   </a>  
 </p>
 <br />
@@ -74,6 +74,8 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 <img src="https://styles.redditmedia.com/t5_9b90l5/styles/communityIcon_1hbt383x43qc1.png" alt="rustrover" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://res.cloudinary.com/dg3gyk0gu/image/upload/v1727812592/tags/solid-start.png" alt="solid start" width="45" height="45"/>
+<span>&nbsp&nbsp</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Affinity_Designer_V2_icon.svg/1200px-Affinity_Designer_V2_icon.svg.png" alt="affinity designer" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
