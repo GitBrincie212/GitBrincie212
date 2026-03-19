@@ -10,10 +10,10 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 - 😄 Pronouns: he/him
 
 <h1 align="center">Knowledge Learnt And Mastery</h1>
-<h3 align="center">My main used languages ranked from mastery to quite advanced (From left to right)</h3>
+<h3 align="center">My main used programming languages ranked from mastery to quite advanced (From left to right)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,godot,ts,js,sqlite,java,sass" />
+    <img src="https://skillicons.dev/icons?i=py,rust,godot,ts,js,java,c" />
   </a>
 </p>
 <p align="center">
@@ -88,8 +88,6 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 <img src="https://img.daisyui.com/images/daisyui/mark-static.svg" alt="daisyUI" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://understanding-astro-zh-docs.vercel.app/_astro/hero-star.81c1bfde_Z1azGY.webp" alt="Starlight" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1086px-C_Programming_Language.svg.png" alt="C" width="45" height="45"/>
 <span>&nbsp&nbsp</span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="CLion" width="45" height="45"/>
 </p>
