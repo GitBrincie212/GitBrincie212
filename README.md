@@ -2,7 +2,9 @@
 <p align="center">I just make computers go *beep* *boop* to produce silly projects</p><br><br>
 
 
-Im a professenial developer (certified idiot) and i mostly have spherical knowledge of most fields but i specalize in **backend development**, **frontend development** (to a certain degree), **systems design** and **software engineering**. I am a fast learner, capable of learning paradigms, frameworks, programming languages swiftly and productively. I mostly work on some random silly projects but sometimes i do tackle large complex ones (some of them are in the pinned repos section). I try my best to make each of my products i produce as masterfully crafted as i can<br>
+Im a professenial developer (certified idiot) and i mostly have spherical knowledge of most fields but i specalize in **backend development**, **frontend development** (to a certain degree), **systems design** and **software engineering**. I am a fast learner, capable of learning paradigms, frameworks, programming languages swiftly and productively. 
+
+I mostly work on some random silly projects but sometimes i do tackle large complex ones (some of them are in the pinned repos section). I try my best to make each of my products i produce as masterfully crafted as i can<br>
 
 - ✨ Personal Fun Fact: Huge fan of Dead Cells, Titanfall 2, Risk Of Rain 2 and ULTRAKILL<br>
 - 🔭 Working on: ChronoGrapher (a scheduler / orchestration engine built to last)
