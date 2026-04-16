@@ -10,7 +10,7 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
 - 😄 Pronouns: he/him
 
 <h1 align="center">Knowledge Learnt And Mastery</h1>
-<h3 align="center">My main used programming languages ranked from mastery to quite advanced (From left to right)</h3>
+<h3 align="center">My Main Used Programming Languages (Ordered)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,rust,godot,ts,js,java,c" />
@@ -22,75 +22,44 @@ Im a professenial developer (certified idiot) and i mostly have spherical knowle
   </a>
 </p>
 <br />
-<h3 align="center">For frameworks, tools and libraries i primarly use (no ranked order)</h3>
+<h3 align="center">The Main Frameworks, Libraries & Tools I Use (Unordered)</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,tauri,react,nextjs,electron,pnpm,vite,obsidian,nodejs,idea,gradle,git,css,html,bootstrap,astro,webstorm,solidjs,pycharm,npm,maven,regex,githubactions" />
+  <a href="https://iconic-api.onrender.com" style="display: flex; gap: 2px; align-items: center;">
+       <img src="https://iconic-api.onrender.com/dark/django" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/flask" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/fastapi" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/pytest" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/numpy" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/pandas" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/matplotlib" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/clion" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/pycharm" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/intellij" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/webstorm" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/nextjs" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/react" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/redux" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/mui" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/solidjs" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/tailwind" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/tauri" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/electron" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/sass" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/html" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/css" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/bun" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/nodejs" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/express" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/zod" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/postgresql" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/mysql" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/bash" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/cloudflare" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/figma" width="32px" />
+       <img src="https://iconic-api.onrender.com/dark/affinity" width="32px" />
   </a>  
 </p>
 <br />
-<h3 align="center">Some other noteworthy mentions are:</h3>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="lua" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" alt="pypi" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="rails" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" alt="ruby" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" alt="homebrew" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" alt="eslint" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="discordjs" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://pycord.dev/_next/static/media/logo.2762350e.png" alt="pycord" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="pycord" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://api.iconify.design/material-icon-theme/minecraft-fabric.svg" alt="fabricmc" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://api.iconify.design/material-icon-theme/prettier.svg" alt="prettier" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://api.iconify.design/material-icon-theme/vue.svg" alt="vuejs" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://api.iconify.design/simple-icons/numba.svg?color=%2348a3dc" alt="numba" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://api.iconify.design/devicon/svelte.svg" alt="svelte" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://avatars.githubusercontent.com/u/28156855?v=4" alt="flutter" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://styles.redditmedia.com/t5_9b90l5/styles/communityIcon_1hbt383x43qc1.png" alt="rustrover" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://res.cloudinary.com/dg3gyk0gu/image/upload/v1727812592/tags/solid-start.png" alt="solid start" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Affinity_Designer_V2_icon.svg/1200px-Affinity_Designer_V2_icon.svg.png" alt="affinity designer" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Affinity_Photo_V2_icon.svg/1200px-Affinity_Photo_V2_icon.svg.png" alt="affinity photo" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Affinity_Publisher_V2_icon.svg/1200px-Affinity_Publisher_V2_icon.svg.png" alt="affinity publisher" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Apache_ECharts_Logo.png" alt="apache echarts" width="180" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://img.daisyui.com/images/daisyui/mark-static.svg" alt="daisyUI" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://understanding-astro-zh-docs.vercel.app/_astro/hero-star.81c1bfde_Z1azGY.webp" alt="Starlight" width="45" height="45"/>
-<span>&nbsp&nbsp</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="CLion" width="45" height="45"/>
-</p>
 <br />
 <h1 align="center">My Streaks And Other Relevant Information</h1>
 <p align="center">
