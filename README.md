@@ -15,9 +15,38 @@ I mostly work on some random silly projects but sometimes i do tackle large comp
   </a>
 </p>
 <br />
-<h2 align="center">My Main Used Technologies (Ordered)</h2>
+<h2 align="center">Familiar Technologies (Ordered)</h2>
 <p align="center">
-  
+  <img src="./assets/vitejs.svg" alt="ViteJS" />
+  <img src="./assets/solidjs.svg" alt="SolidJS" />
+  <img src="./assets/tauri.svg" alt="Tauri" />
+  <img src="./assets/daisyui.svg" alt="DaisyUI" />
+  <img src="./assets/bootstrap.svg" alt="BootstrapCSS" />
+  <img src="./assets/tailwindcss.svg" alt="TailwindCSS" />
+  <img src="./assets/tokio.svg" alt="Tokio" />
+  <img src="./assets/biomejs.svg" alt="BiomeJS" />
+  <img src="./assets/fumadocs.svg" alt="Fumadocs" />
+  <img src="./assets/pyo3.png" alt="PyO3" />
+  <img src="./assets/napirs.png" alt="Napi.rs" />
+  <img src="./assets/sqlite.svg" alt="SQLite" />
+  <img src="./assets/astrojs.svg" alt="AstroJS" />
+  <img src="./assets/starlight.png" alt="Starlight" />
+  <img src="./assets/solidstart.png" alt="SolidStart" />
+  <img src="./assets/nextjs.svg" alt="NextJS" />
+  <img src="./assets/reactjs.svg" alt="ReactJS" />
+  <img src="./assets/redux.svg" alt="Redux" />
+  <img src="./assets/mcfabric.svg" alt="Fabric" />
+  <img src="./assets/githubactions.svg" alt="Github Actions" />
+  <img src="./assets/electron.svg" alt="Electron" />
+  <img src="./assets/prettier.svg" alt="Prettier" />
+  <img src="./assets/eslint.svg" alt="ESLint" />
+  <img src="./assets/postgresql.svg" alt="PostgreSQL" />
+  <img src="./assets/numba.svg" alt="Numba" />
+  <img src="./assets/cython.svg" alt="Cython" />
+  <img src="./assets/pytest.svg" alt="Pytest" />
+  <img src="./assets/numpy.svg" alt="Numpy" />
+  <img src="./assets/selenium.svg" alt="Selenium" />
+  <img src="./assets/bash.svg" alt="Bash" />
 </p>
 <br />
 <h2 align="center">My Streaks And Other Relevant Information</h2>
